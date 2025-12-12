@@ -47,3 +47,5 @@ More Java examples will be added as I continue learning.
 - API retry logic
 - Webhook signature verification example
 - Small open-source documentation PRs
+- Add Java HTTP client example using HttpURLConnection
+
